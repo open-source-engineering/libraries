@@ -6,7 +6,7 @@ In our actual product, we will have **native python 3** available in the tool so
 
 ## How Python Remote Works
 
-It uses Anaconda to create a virtual python environment in Grasshopper. Any python2.x libraries can be added to this environment. The only limitation is including python 3 libraries. If you need python 3 libraries, contact Oliver on Slack as he has done this before.
+It uses Anaconda to create a virtual python environment in Grasshopper. Any python2.x libraries can be added to this environment. The only limitation is including python 3 libraries. If you need python 3 libraries, contact Oliver on Slack as he has done this before. For more information regarding this integration, click [here](https://github.com/Digital-Structures/ghpythonremote/blob/master/README.rst).
 
 ## Installing Python Remote
 
